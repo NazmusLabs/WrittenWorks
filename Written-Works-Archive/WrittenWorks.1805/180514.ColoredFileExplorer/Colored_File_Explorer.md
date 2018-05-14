@@ -1,4 +1,4 @@
-File Explorer Adapts to Accent Color in Windows 10 RS5 Insider Preview
+# File Explorer Adapts to Accent Color in Windows 10 RS5 Insider Preview #
 
 With the latest Insier Preview build for Windows 10's next major feature update, we appear to be getting a more colorful File Explorer.
 
